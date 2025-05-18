@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const newQuoteBtn = document.getElementById('new-quote-btn');
     const numberQuote = document.getElementById('number-quote');
     
-    const yourName = document.getElementById('your-name');
+    const yourName = document.getElementById('karen');
 
     function addYourName(){
             yourName.textContent ='Nome do Aluno'
