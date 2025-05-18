@@ -4,10 +4,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const newQuoteBtn = document.getElementById('new-quote-btn');
     const numberQuote = document.getElementById('number-quote');
     
-    const yourName = document.getElementById('karen');
+    const yourName = document.getElementById('yourname');
 
     function addYourName(){
-            yourName.textContent ='Nome do Aluno'
+            yourName.textContent ='Karen'
     }
     addYourName();
 
